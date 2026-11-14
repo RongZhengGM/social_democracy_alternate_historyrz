@@ -36,7 +36,7 @@ The referendum easily fails, with only around 15% of voters supporting it. It se
 
 
 @neutral
-on-arrival: nationalism += 2; workers_nsdap += 2; rural_nsdap += 2; catholics_spd -= 2; workers_spd -= 2; rural_dvp -= 2
+on-arrival: nationalism += 2; workers_nsdap += 2; rural_nsdap += 2; catholics_spd -= 2; workers_spd -= 2; rural_dvp -= 2; old_middle_spd += 2; pro_republic += 1
 
 Due to public dissatisfaction with the Treaty of Versailles, a moderate propaganda campaign policy was acceptable to our party and the people. The referendum easily fails, with only around 15% of voters supporting it. It seems that the German people have a sense of rationality, after all.
 
