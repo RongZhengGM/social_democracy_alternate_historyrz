@@ -32,7 +32,7 @@ Something must be done to reinforce party unity.
 
 @enforce_unity
 title: Enforce party discipline.
-on-arrival: reformist_dissent -= 5; center_dissent -= 5; labor_dissent -= 5; left_dissent -= 5; neorevisionist_dissent -= 5; workers_spd -= 4; new_middle_spd -= 2; unemployed_spd -= 2
+on-arrival: reformist_dissent -= 5; center_dissent -= 5; labor_dissent -= 5; left_dissent -= 5; neorevisionist_dissent -= 5; srfb_dissent -= 5; gvv_dissent -= 5; workers_spd -= 4; new_middle_spd -= 2; unemployed_spd -= 2
 
 Enforcing party discipline reduces dissent, but it could lead to an exit of dissenting members.
 
@@ -78,7 +78,7 @@ Giving the neorevisionists more influence will cause increased dissent from the 
 
 @do_nothing
 title: Let the factions argue with themselves.
-on-arrival: labor_dissent += 1; left_dissent += 1; center_dissent += 1; reformist_dissent += 1
+on-arrival: labor_dissent += 1; left_dissent += 1; center_dissent += 1; reformist_dissent += 1; srfb_dissent -= 1; gvv_dissent -= 1
 
 Let the factions bicker; perhaps dissent is healthy for the party.
 
